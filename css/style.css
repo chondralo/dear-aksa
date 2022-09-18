@@ -9,6 +9,7 @@ table.moment {
     text-align:left;
 }
 p {
+    text-align:justify;
     margin: 45px;
     line-height: 140%;
 }
