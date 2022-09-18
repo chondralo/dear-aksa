@@ -2,3 +2,6 @@ body {
     font-family: "Raleway", sans-serif;
     background-color: #ecdbc9;
   }
+table {
+    text-align: "left";
+  }
