@@ -3,9 +3,9 @@ body {
     background-color: #ecdbc9;
 }
 table.moment {
-    style=width:30%; 
-    align=right;
-    text-align: left;
+    align: right;
+    width: 30%;
+    text-align:left;
 }
 p {
     line-height: 140%;
