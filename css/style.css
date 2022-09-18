@@ -3,10 +3,11 @@ body {
     background-color: #ecdbc9;
 }
 table.moment {
-    align: right;
+    margin-left: auto;
     width: 30%;
     text-align:left;
 }
 p {
+    margin: auto;
     line-height: 140%;
 }
