@@ -22,3 +22,7 @@ a:link {
 a:visited {
   color: grey;
 }
+
+p.center {
+  text-align: center;
+}
